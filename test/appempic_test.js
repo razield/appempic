@@ -10,7 +10,7 @@ describe('appempic', function () {
   });
 
   it('el apellido debe ser Zuluaga', function () {
-    appempic.getLastName().should.equal('gomez');
+    appempic.getLastName().should.equal('Zuluaga');
   });
 
 });
