@@ -42,3 +42,4 @@ Copyright (c) 2016 Jonathan Diosa. Licensed under the MIT license.
 [daviddm-image]: https://david-dm.org/jadiosa/appempic
 [coveralls-url]: https://coveralls.io/r/jadiosa/appempic
 [coveralls-image]: https://coveralls.io/repos/jadiosa/appempic/badge.png
+# appempic
